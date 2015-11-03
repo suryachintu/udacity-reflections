@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Metadata is created in a hidden folder.
+You have to initialize the repository so git can keep track of the changes on the 
+files you want git to do so.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+These files are under control of git and you can commit them.
+You see them as added to the repository and pending to commit
+The ones not added in the working directory are shown as pending to add
+This helps you to know what are you working on and what is pending
