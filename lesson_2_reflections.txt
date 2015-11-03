@@ -11,3 +11,17 @@ These files are under control of git and you can commit them.
 You see them as added to the repository and pending to commit
 The ones not added in the working directory are shown as pending to add
 This helps you to know what are you working on and what is pending
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Just add the files you want to commit to the staging using git add, 
+then commit them with a meaningful comment.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are useful when you want to experiment or start with a new feature, while you can
+continue using master as the real version where you can fix bugs.
+
+It helps to keep organized the things you are working on without affecting others.
+Merge will help to make everything go together to master after the work is done
+
