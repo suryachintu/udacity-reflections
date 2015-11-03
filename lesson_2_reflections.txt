@@ -25,3 +25,9 @@ continue using master as the real version where you can fix bugs.
 It helps to keep organized the things you are working on without affecting others.
 Merge will help to make everything go together to master after the work is done
 
+How do the diagrams help you visualize the branch structure?
+
+They allow you to see the seq of commits that are in the branch, and the
+commits that affect that branch. So you can see when you introduce a bug
+or if a bug fix is part of your branch - if it is not, you might have to
+merge (somehow .. to be learnt in future videos?)
