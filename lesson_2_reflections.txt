@@ -31,3 +31,9 @@ They allow you to see the seq of commits that are in the branch, and the
 commits that affect that branch. So you can see when you introduce a bug
 or if a bug fix is part of your branch - if it is not, you might have to
 merge (somehow .. to be learnt in future videos?)
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+You get the changes from the 2nd branch into the first one.
+We represent it that way to know the order of the commits and see
+the history clearly
