@@ -16,3 +16,8 @@ and the other repository knows how many forks has
 Clone : copy a repo into a local git repo
 
 Branches : copy current commited code into a diferent commit-tree in local
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can the merge offline the 2 branches, or compare (git diff)
