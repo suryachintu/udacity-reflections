@@ -21,3 +21,7 @@ Branches : copy current commited code into a diferent commit-tree in local
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can the merge offline the 2 branches, or compare (git diff)
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Sending emails, copying files, or using another version control web site (any svn)
