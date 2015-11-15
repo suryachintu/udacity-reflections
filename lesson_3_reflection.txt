@@ -25,3 +25,8 @@ You can the merge offline the 2 branches, or compare (git diff)
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Sending emails, copying files, or using another version control web site (any svn)
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You are adding a new feature, and you want someone to review before it becomes it part of master.
+You create a branch so you give the oportunity to others to review a pull request with the changes before merging into trunk.
